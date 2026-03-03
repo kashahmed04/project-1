@@ -42,3 +42,8 @@ The following variables can be modified to change the artwork:
 - COLORS array - Controls the color palette of the tiles.
 - Stroke scaling percentages - Adjust line thickness relative to tile size.
 
+## Reflection 
+Working on this project helped me understand how tiling can be used to create art in a structured way. One of the harder parts was making sure the contents of the tiles were still clearly visible when I changed the grid density, because I didn’t want the pattern to look weird or break visually. Using SVG templates and scaling the strokes relative to tile size helped keep everything balanced. Another hard part was actually deciding what I wanted to make because as I was doing research everything just looked boring and it was the same thing over and over again. Eventually, I did find a vibe that I liked which inspired this piece. I wanted to go for an electronic board type thing you would see in puzzles within games. Other than that, I liked seeing how small rules like rotation and color selection could still create something interesting without making the design feel random or messy. Overall, this project showed me how SVG art can be both technical and creative.
+
+
+
